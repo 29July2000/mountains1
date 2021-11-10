@@ -1,0 +1,12 @@
+.gaurav{
+  height: 200px;
+  width: 200px;
+  border: 5px solid white;
+}
+.rahul{
+  height: 300px;
+  width: 300px;
+  border: 5px solid white;
+  float: right;
+ margin-right: 60px;
+}
